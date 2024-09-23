@@ -1,0 +1,1 @@
+Programa que es un control de gastos mensuales en el cual tu puedes poner que producto haz comprado y por cuanto (en dolares) el cual se agrega a una lista y te dara al final cuanto llevas gastado a si como eliminar en caso de que te hayas equivocado
